@@ -1,0 +1,8 @@
+*.[oai]
+*~
+
+#ignore any file within build folder
+build/
+
+#ignore any file within venv folder
+venv/
